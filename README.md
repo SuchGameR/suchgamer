@@ -2,7 +2,7 @@
 
 # 👋 Hi, SGR here!
 
-[🌐 Visit Our Homepage](https://sgr-studio.github.io/)
+Primarily focused on web development.
 
 ---
 
