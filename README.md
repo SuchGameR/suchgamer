@@ -1,5 +1,3 @@
-<div align="center">
-
 # 👋 Hi, SGR here!
 
 Primarily focused on web development.
@@ -196,5 +194,3 @@ Primarily focused on web development.
 ![trophy](https://github-profile-trophy.vercel.app/?username=suchgamer&theme=discord&no-frame=true&row=1&column=7)
 
 ---
-
-</div>
