@@ -23,8 +23,8 @@ jobs:
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          if (git diff --shortstat | grep '[0-9]' ); then
-            git add .
+          git add langs.light.svg langs.dark.svg
+          if (git diff --cached --shortstat | grep '[0-9]' ); then
             git commit -m "Update language stats"
             git push origin main
           fi
