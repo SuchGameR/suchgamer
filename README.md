@@ -22,6 +22,26 @@ Primarily focused on web development.
 
 <br>
 
+<!-- Add
+
+<p align="center">
+  <img src="./github-metrics.svg" width="100%"/>
+</p>
+
+<p align="center">
+  <img src="./langs.light.svg#gh-light-mode-only" width="48%"/>
+  <img src="./langs.dark.svg#gh-dark-mode-only" width="48%"/>
+</p>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=SuchGameR&count_private=true&show_icons=true&theme=react" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuchGameR&count_private=true&theme=react" />
+</a>
+
+-->
+
 
 <p align="left">
     <img height="176em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=suchgamer&theme=github_dark" />
