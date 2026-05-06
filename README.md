@@ -2,41 +2,43 @@
 
 Primarily focused on web development.
 
-![](https://raw.githubusercontent.com/suchgamer/suchgamer/output/github-contribution-grid-snake.svg)
 
 <p>
   <a href="https://github.com/suchgamer">
-    <img height="20" src="https://komarev.com/ghpvc/?username=suchgamer&style=flat-square&color=blueviolet" />
+    <img height="30" src="https://komarev.com/ghpvc/?username=suchgamer&style=flat-square&color=blueviolet" />
   </a>
   &nbsp;
   <a href="https://github.com/suchgamer">
-    <img height="20" src="https://img.shields.io/github/followers/suchgamer?label=followers&logo=github&style=flat-square" />
+    <img height="30" src="https://img.shields.io/github/followers/suchgamer?label=followers&logo=github&style=flat-square" />
   </a>
 </p>
 
----
+#### Most using languages for me
+<div align="left">
+    <img src="./langs.light.svg#gh-light-mode-only" width="330"/>
+    <img src="./langs.dark.svg#gh-dark-mode-only" width="330"/>
+  
+</div>
 
-### 📊 GitHub Stats
+<br>
 
-<p align="center">
-  <img src="./langs.light.svg#gh-light-mode-only" width="330"/>
-  <img src="./langs.dark.svg#gh-dark-mode-only" width="330"/>
+
+<p align="left">
+    <img height="176em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=suchgamer&theme=github_dark" />
+  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=suchgamer&theme=github_dark" />
+  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=suchgamer&theme=github_dark&utcOffset=9" />
 </p>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=SuchGameR&count_private=true&show_icons=true&theme=react" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuchGameR&count_private=true&theme=react" />
-</a>
+
+📊 GitHub Stats
+---
 
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=suchgamer&theme=github_dark" />
 
-<table border="0" cellspacing="0" cellpadding="8"><tr>
+<!-- <table border="0" cellspacing="0" cellpadding="8"><tr>
   <td><img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=suchgamer&theme=github_dark" /></td>
   <td><img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=suchgamer&theme=github_dark&utcOffset=9" /></td>
-</tr></table>
+</tr></table> -->
 
 ---
 
