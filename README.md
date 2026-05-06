@@ -55,7 +55,7 @@ I enjoy exploring various technologies and building efficient systems.
         <h4>OS</h4>
         <img src="https://skillicons.dev/icons?i=windows,apple,linux,ubuntu,raspberrypi" /><br>
         <h4>Platforms</h4>
-        <img src="https://skillicons.dev/icons?i=discord,github,instagram,misskey,twitter,mastodon,gitlab,codepen,stackoverflow" /><br>
+        <img src="https://skillicons.dev/icons?i=discord,twitter,instagram,misskey,,mastodon,github,gitlab,codepen,stackoverflow" /><br>
         <br>
         <h4>Learning</h4>
         <img src="https://skillicons.dev/icons?i=rust,deno,go,svelte,dart,flutter,maven,kotlin,ruby,rails,googlecloud" /><br>
