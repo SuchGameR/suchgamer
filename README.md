@@ -18,6 +18,12 @@ Primarily focused on web development.
 
 ### 📊 GitHub Stats
 
+＜a href="https://github.com/anuraghazra/github-readme-stats">
+  ＜img align="left" src="https://github-readme-stats.vercel.app/api?username=SuchGameR&count_private=true&show_icons=true&theme=react" />
+
+＜a href="https://github.com/anuraghazra/github-readme-stats">
+  ＜img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuchGameR&count_private=true&theme=react" />
+
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=suchgamer&theme=github_dark" />
 
 <table border="0" cellspacing="0" cellpadding="8"><tr>
