@@ -1,0 +1,30 @@
+name: Update Language Stats
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # 毎日0時に実行
+  push:
+    branches:
+      - main
+  workflow_dispatch: # 手動実行用
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - name: Get SVGs
+        run: |
+          curl --fail -H "x-gh-token: ${{ github.token }}" 'https://gh-stats-api.reizt.workers.dev/${{ github.actor }}?theme=light' > ./langs.light.svg
+          curl --fail -H "x-gh-token: ${{ github.token }}" 'https://gh-stats-api.reizt.workers.dev/${{ github.actor }}?theme=dark'  > ./langs.dark.svg
+      - name: Commit
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          if (git diff --shortstat | grep '[0-9]' ); then
+            git add .
+            git commit -m "Update language stats"
+            git push origin main
+          fi
