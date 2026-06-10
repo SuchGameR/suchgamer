@@ -15,9 +15,12 @@ I enjoy exploring various technologies and building efficient systems.
 </p>
 
 <p>
-<img src="./github-metrics.svg" />
-<!-- <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yyyg1114&theme=github_dark" />
-<img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yyyg1114&theme=github_dark&utcOffset=9" /> -->
+<details>
+  <summary>More</summary>
+  <img src="./github-metrics.svg" />
+  <!-- <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yyyg1114&theme=github_dark" />
+  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yyyg1114&theme=github_dark&utcOffset=9" /> -->
+</details>
 </p>
 
 <div align="left">
